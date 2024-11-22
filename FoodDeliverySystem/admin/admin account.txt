@@ -1,4 +1,0 @@
-<p>default username = <span>admin</span> & password = <span>111</span></p>
-
-username = admin
-password = 111
